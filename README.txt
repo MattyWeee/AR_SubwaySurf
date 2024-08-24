@@ -1,5 +1,7 @@
-How to Play Augmented Reality Subway Surfers:
+Setup:
+1. Download the three files and put them in the same directory
 
+Gameplay:
 1. Go to the Subway Surfers Online Game
 2. Run AR_SubwaySurf.py  
 3. Make sure your whole body is in view of the camera
