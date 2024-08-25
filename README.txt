@@ -12,5 +12,7 @@ Gameplay:
 8. Clap hands whenever prompted to "hit space"
 9. Press 'esc' on keyboard to exit AR_SubwaySurf.py 
 
-Note: When moving horizontally only move in the desired direction (i.e. to move left, stand to the left; moving back towards the right to recenter yourself will be interpreted as moving right)
+Note: 
+  When moving horizontally only move in the desired direction (i.e. to move left, stand to the left; moving back towards the right to recenter yourself will be interpreted as moving right)
+  This project is still a work in progress (face detection and hand tracking modules should be used to implement additional accessibilty features - virtual mouse, user recognition, etc.)
 
